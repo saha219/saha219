@@ -63,19 +63,6 @@ Explore my repositories for more projects and experiments:
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saha219&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saha219&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=saha219&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🌱 Current Learning Goals
 
 - Advanced Java and Spring Boot
